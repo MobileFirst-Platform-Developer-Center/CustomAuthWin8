@@ -1,13 +1,17 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
-
+### Custom authentication in Windows 8
+This sample shows how to create a custom authenticator and a login module, and define a realm.
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+**Server-side**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/custom-authentication/
 
+**Windows 8**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/custom-authentication/custom-authentication-in-native-windows-8-applications/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
